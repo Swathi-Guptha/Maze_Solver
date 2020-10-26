@@ -27,7 +27,7 @@ To install all the modules required to run the code, you need to execte the belo
 ```
   
 3. In order to smoothly execute the code a fluorescent light should be placed in front of the maze.  
-4. To quit the program press q.
+4. To quit the program press 'q'.  
 
 # Demo Video :  
 • https://youtu.be/_pED1ANgbck
@@ -37,7 +37,7 @@ To install all the modules required to run the code, you need to execte the belo
 • YoloV5 [https://github.com/ultralytics/yolov5#citation]  
   
 # Contributors  
-• @DeepakAggarwal
+• @daggarwal01 [https://github.com/daggarwal01]
 
   
 
